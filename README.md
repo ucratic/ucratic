@@ -1,4 +1,7 @@
 # Ucratic Core Planning
+
+[![hackmd-github-sync-badge](https://hackmd.io/_IIWMxoQTkmva4PRf8mcsA/badge)](https://hackmd.io/_IIWMxoQTkmva4PRf8mcsA)
+
 ###### tags: `ucratic`
 
 ## About
